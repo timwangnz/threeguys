@@ -1,5 +1,4 @@
-*/src/test/resources/profiledump/
-*/target/
+target/
 .gitingore
 /.settings/
 *.classpath
@@ -11,4 +10,4 @@ nbactions-env-dev.xml
 *.DS_Store
 nbactions.xml
 src/main/webapp/*
-*/data/
+data
