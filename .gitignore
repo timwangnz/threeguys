@@ -1,0 +1,14 @@
+*/src/test/resources/profiledump/
+*/target/
+.gitingore
+/.settings/
+*.classpath
+*.project
+*.class
+*.jar
+nb-configuration.xml
+nbactions-env-dev.xml
+*.DS_Store
+nbactions.xml
+src/main/webapp/*
+*/data/
